@@ -13,7 +13,7 @@ The four subsets cover the following drone-recorded traffic scenes.
 | NBTj-PC | A main road leading to the Meishan Container Terminal | 通往梅山集装箱码头的主干道路 |
 | NBTj-UC | An intersection at the Meishan Campus of Ningbo University | 宁波大学梅山校区内的交叉口 |
 | NBTj-UI | An unsignalized intersection near Tianyi Square | 天一广场附近的无信号控制交叉口 |
-| NBTj-YP | A pedestrian crosswalk with “Yield to Pedestrians” signage | 设有“车让人”标识的人行横道 |
+| NBTj-YP | A pedestrian crosswalk with “Yield to Pedestrians” signage | 设有“礼让行人”标识的人行横道 |
 
 ![UAV recording scenes of the four NBTj subsets](uav_recording_scenes.png)
 
